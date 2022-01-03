@@ -1,0 +1,15 @@
+---
+layout: post
+title: Testing MathJax
+subtitle: This is a test only
+cover-img:
+thumbnail-img:
+share-img:
+tags: <script type="text/javascript" charset="utf-8" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML, https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
+---
+
+And that is a fraction:
+
+\begin{gather}
+\Psi = \frac{a}{b}
+\end{gather}
